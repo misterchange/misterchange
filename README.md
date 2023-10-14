@@ -1,4 +1,10 @@
 ### Hi there 👋
+Nitin Here !!!
+
+🔭 I’m currently Exploring the World of Web 3.0
+💬 Ask me about the world of web 3.0
+📫 How to reach me: Email me @ nitinrajaofficial@gmail.com
+⚡ Fun fact: I Changed my name to Nitin so that it is palindrome "NITIN"
 
 <!--
 **misterchange/misterchange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +18,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I Changed my name to Nitin so that it is palindrome "NITIN"
 -->
