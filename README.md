@@ -1,5 +1,5 @@
-![low quality - 2 mb](https://github.com/misterchange/misterchange/assets/98409448/a9dc9c3a-5943-4b81-bcf6-709b38dcbfb9)### Hi there 👋
-Nitin Here !!!
+![low quality - 2 mb](https://github.com/misterchange/misterchange/assets/98409448/a9dc9c3a-5943-4b81-bcf6-709b38dcbfb9)
+Hi there 👋  Nitin Here !!!
 
 🔭 I’m currently Exploring the World of Web 3.0
 💬 Ask me about the world of web 3.0
